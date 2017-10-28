@@ -1,0 +1,6 @@
+c:\source_code\CafeApp\tests\CafeApp.Core.Tests.dll
+c:\source_code\CafeApp\tests\CafeApp.Core.Tests.pdb
+c:\source_code\CafeApp\tests\CafeApp.Core.Tests.XML
+c:\source_code\CafeApp\src\CafeApp.Core.Tests\obj\Debug\CafeApp.Core.Tests.fsprojResolveAssemblyReference.cache
+c:\source_code\CafeApp\src\CafeApp.Core.Tests\obj\Debug\CafeApp.Core.Tests.dll
+c:\source_code\CafeApp\src\CafeApp.Core.Tests\obj\Debug\CafeApp.Core.Tests.pdb
